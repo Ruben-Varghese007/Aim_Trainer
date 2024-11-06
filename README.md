@@ -22,7 +22,7 @@ pip install pygame
 
 ## Screenshots
 
-###Welcome Screen
+###Welcome Screen###
 ![Welcome Screen](https://github.com/Ruben-Varghese007/Aim_Trainer/blob/e569058979a32b6849bd6d0d4209c7a25434e9b1/Screenshots/Welcome_Screen.png)
 
 ###Game Screen
